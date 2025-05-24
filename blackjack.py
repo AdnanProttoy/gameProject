@@ -42,14 +42,6 @@ def play_game():
                     print("Match draw")
             break
 
-
-
-
-
-
-
-
-
         total_game+=1
 play_game()
 
